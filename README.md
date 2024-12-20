@@ -6,7 +6,7 @@ Welcome to the TV Show Tracker App! This application is a place for you to not o
 Table of Contents
 -------------------------
 
--Overview
+-Overview\n
 -Features
 -Technologies Used
 -Setup Instructions
