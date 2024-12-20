@@ -1,6 +1,6 @@
-TV Show Tracker !
+TV Show Tracker!
 
-Welcome to the TV Show Tracker App! This application is a place for you to not only keep track of all of your favorite shows, but to also keep traack of which ones your are watching, want to watch and even ones you have finished! Along with this, you are able to rate your shows! 
+Welcome to the TV Show Tracker App! This application is a place for you to not only keep track of all of your favorite shows, but to also keep traack of which ones your are watching, want to watch and even ones you have finished! Along with this, you can rate your shows! 
 
 
 Table of Contents
