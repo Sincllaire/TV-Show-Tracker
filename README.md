@@ -6,19 +6,19 @@ Welcome to the TV Show Tracker App! This application is a place for you to not o
 Table of Contents
 -------------------------
 
--Overview
+Overview
 
--Features
+Features
 
--Technologies Used
+Technologies Used
 
--Setup Instructions
+Setup Instructions
 
--Running the Application
+Running the Application
 
--Usage Guide
+Usage Guide
 
--Project Structure
+Project Structure
 
 Overview
 ----------------
@@ -28,25 +28,25 @@ The TV Show Tracker App is a Flask web application that allows users to keep tra
 Features
 ----------------
 
--User Registration & Login: Users can create accounts and log in.
+User Registration & Login: Users can create accounts and log in.
 
--Add Shows to Tracker: Users can add shows from a list of available shows.
+Add Shows to Tracker: Users can add shows from a list of available shows.
 
--Update Status & Rating: Users can update the status (e.g., "Plan to Watch," "Currently Watching," -"Finished Watching") and rate shows from 1-5.
+Update Status & Rating: Users can update the status (e.g., "Plan to Watch," "Currently Watching," -"Finished Watching") and rate shows from 1-5.
 
--Track Viewing Progress: Users can view and manage the progress of each show they are tracking.
+Track Viewing Progress: Users can view and manage the progress of each show they are tracking.
 
 
 Technologies Used
 --------------------
 
--Python with Flask for the web application
+Python with Flask for the web application
 
--MySQL for the database
+MySQL for the database
 
--SQLAlchemy for ORM (Object-Relational Mapping)
+SQLAlchemy for ORM (Object-Relational Mapping)
 
--HTML and Jinja2 for templating
+HTML and Jinja2 for templating
 
 Setup Instructions
 --------------------
@@ -108,15 +108,15 @@ Open a browser and go to http://127.0.0.1:5000/ to access the app.
 Usage Guide
 -------------
 
--Register: Go to the Register page and create a new account.
+Register: Go to the Register page and create a new account.
 
--Login: After registering, log in to access your tracker.
+Login: After registering, log in to access your tracker.
 
--View Shows: Visit the Available Shows page to see a list of shows you can track.
+View Shows: Visit the Available Shows page to see a list of shows you can track.
 
--Add Shows: Add shows to your tracker by clicking "Add to Tracker" on the Available Shows page.
+Add Shows: Add shows to your tracker by clicking "Add to Tracker" on the Available Shows page.
 
--Update Shows: On your Tracker page, update the status (Plan to Watch, Currently Watching, Finished Watching) and rate shows from 1-5.
+Update Shows: On your Tracker page, update the status (Plan to Watch, Currently Watching, Finished Watching) and rate shows from 1-5.
 
 Project Structure
 -------------------
