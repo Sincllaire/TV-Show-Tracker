@@ -7,11 +7,17 @@ Table of Contents
 -------------------------
 
 -Overview
+
 -Features
+
 -Technologies Used
+
 -Setup Instructions
+
 -Running the Application
+
 -Usage Guide
+
 -Project Structure
 
 Overview
